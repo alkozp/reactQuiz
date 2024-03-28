@@ -1,0 +1,221 @@
+[
+    {
+        "category": "society_and_culture",
+        "id": "6488889b5dba6c873ef6505d",
+        "correctAnswer": "A banshee",
+        "incorrectAnswers": [
+            "A mermaid",
+            "A siren",
+            "A fairy"
+        ],
+        "question": {
+            "text": "In Gaelic folklore, what loud female spirit was believed to warn of a death?"
+        },
+        "tags": [
+            "folklore",
+            "mythology",
+            "society_and_culture",
+            "ireland"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "6463398801d576cfac3aa372",
+        "correctAnswer": "Mars",
+        "incorrectAnswers": [
+            "Earth",
+            "Saturn",
+            "Venus"
+        ],
+        "question": {
+            "text": "The moons Deimos and Phobos orbit which planet in our solar system?"
+        },
+        "tags": [
+            "astronomy",
+            "space",
+            "planets",
+            "the_solar_system",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "645b69d8f09106226db2355f",
+        "correctAnswer": "As You Like It",
+        "incorrectAnswers": [
+            "Twelfth Night",
+            "Much Ado About Nothing",
+            "A Midsummer Night's Dream"
+        ],
+        "question": {
+            "text": "From which Shakespearean comedy do the lines 'And thereby hangs a tale' and 'All the world's a stage' come?"
+        },
+        "tags": [
+            "theater",
+            "shakespeare",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "622a1c377cc59eab6f9505a4",
+        "correctAnswer": "Things which cannot be known",
+        "incorrectAnswers": [
+            "Relationships between living organisms and their environment",
+            "Nerves",
+            "Algae"
+        ],
+        "question": {
+            "text": "What is Agnoiology the study of?"
+        },
+        "tags": [
+            "science",
+            "words"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "622a1c347cc59eab6f94f891",
+        "correctAnswer": "Football",
+        "incorrectAnswers": [
+            "Hockey",
+            "Tennis",
+            "Surfing"
+        ],
+        "question": {
+            "text": "With which sport is David Beckham associated?"
+        },
+        "tags": [
+            "people",
+            "general_knowledge",
+            "sport"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c377cc59eab6f950410",
+        "correctAnswer": "Ethiopia",
+        "incorrectAnswers": [
+            "Somalia",
+            "Eritrea",
+            "Uganda"
+        ],
+        "question": {
+            "text": "The first Live Aid was to benefit which starving country?"
+        },
+        "tags": [
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "sport_and_leisure",
+        "id": "647c9855f89e0968cfbc1a22",
+        "correctAnswer": "3",
+        "incorrectAnswers": [
+            "1",
+            "5",
+            "7"
+        ],
+        "question": {
+            "text": "What is the maximum amount of points that can be scored from a single shot in basketball?"
+        },
+        "tags": [
+            "basketball",
+            "sport",
+            "nba"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "general_knowledge",
+        "id": "622a1c357cc59eab6f94fc7c",
+        "correctAnswer": "Grommet",
+        "incorrectAnswers": [
+            "Winklepicker",
+            "Curmudgeon",
+            "Cattywampus"
+        ],
+        "question": {
+            "text": "Which word is defined as 'an eyelet of firm material to strengthen or protect an opening or to insulate or protect something passed through it'?"
+        },
+        "tags": [
+            "words",
+            "general_knowledge"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "film_and_tv",
+        "id": "622a1c347cc59eab6f94fc0f",
+        "correctAnswer": "\"Take your stinking paws off me, you damned dirty ape.\"",
+        "incorrectAnswers": [
+            "\"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+            "\"Toga! Toga!\"",
+            "\"Attica! Attica!\""
+        ],
+        "question": {
+            "text": "Which of these quotes is from the film 'Planet of the Apes'?"
+        },
+        "tags": [
+            "quotes",
+            "film",
+            "general_knowledge",
+            "film_and_tv"
+        ],
+        "type": "text_choice",
+        "difficulty": "easy",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "music",
+        "id": "622a1c357cc59eab6f94ffc6",
+        "correctAnswer": "New Edition",
+        "incorrectAnswers": [
+            "Shinedown",
+            "Fleetwood Mac",
+            "The Rooftop Singers "
+        ],
+        "question": {
+            "text": "With Which Teen Band Did Bobby Brown Sing With Before Going Solo?"
+        },
+        "tags": [
+            "bands",
+            "music"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    }
+]

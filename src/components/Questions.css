@@ -1,0 +1,12 @@
+.question {
+  font-size: 1.3rem;
+  text-align: left;
+  padding: 1rem;
+}
+
+.answers {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  justify-content: center;
+}

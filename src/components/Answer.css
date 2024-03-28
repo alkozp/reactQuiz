@@ -1,0 +1,16 @@
+.answer {
+  width: 50%;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  font-size: 1.3rem;
+  user-select: none;
+  cursor: pointer;
+}
+
+.true {
+  background-color: greenyellow;
+}
+
+.false {
+  background-color: red;
+}

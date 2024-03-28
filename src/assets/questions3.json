@@ -1,0 +1,71 @@
+[
+    {
+        "category": "society_and_culture",
+        "id": "6488889b5dba6c873ef6505d",
+        "correctAnswer": "A banshee",
+        "incorrectAnswers": [
+            "A mermaid",
+            "A siren",
+            "A fairy"
+        ],
+        "question": {
+            "text": "In Gaelic folklore, what loud female spirit was believed to warn of a death?"
+        },
+        "tags": [
+            "folklore",
+            "mythology",
+            "society_and_culture",
+            "ireland"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "science",
+        "id": "6463398801d576cfac3aa372",
+        "correctAnswer": "Mars",
+        "incorrectAnswers": [
+            "Earth",
+            "Saturn",
+            "Venus"
+        ],
+        "question": {
+            "text": "The moons Deimos and Phobos orbit which planet in our solar system?"
+        },
+        "tags": [
+            "astronomy",
+            "space",
+            "planets",
+            "the_solar_system",
+            "science"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    },
+    {
+        "category": "arts_and_literature",
+        "id": "645b69d8f09106226db2355f",
+        "correctAnswer": "As You Like It",
+        "incorrectAnswers": [
+            "Twelfth Night",
+            "Much Ado About Nothing",
+            "A Midsummer Night's Dream"
+        ],
+        "question": {
+            "text": "From which Shakespearean comedy do the lines 'And thereby hangs a tale' and 'All the world's a stage' come?"
+        },
+        "tags": [
+            "theater",
+            "shakespeare",
+            "arts_and_literature"
+        ],
+        "type": "text_choice",
+        "difficulty": "hard",
+        "regions": [],
+        "isNiche": false
+    }
+]

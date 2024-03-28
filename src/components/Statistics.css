@@ -1,0 +1,34 @@
+.statistics {
+  border: 2px solid black;
+  padding: 0.5rem;
+  display: flex;
+  gap: 0.5rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+.box {
+  border: 2px solid black;
+  padding: 0.2rem;
+  width: 1.3rem;
+  border-radius: 0.3rem;
+  text-align: center;
+}
+
+.rightResults {
+  margin-left: auto;
+  padding: 0.2rem;
+  font-size: 1.3rem;
+}
+
+.current {
+  background-color: lightgray;
+}
+
+.true-answer {
+  background-color: lawngreen;
+}
+
+.false-answer {
+  background-color: red;
+}

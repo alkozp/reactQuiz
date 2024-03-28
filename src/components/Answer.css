@@ -12,5 +12,11 @@
 }
 
 .false {
-  background-color: red;
+  background-color: orangered;
+}
+
+.true,
+.false {
+  transition: all 0.4s;
+  transform: scale(1.05);
 }

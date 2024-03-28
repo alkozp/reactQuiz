@@ -33,7 +33,7 @@ function QuestionsBoxesList() {
 function RightResults() {
   const { answers } = useContext(quizContext);
   const rightScore = answers.filter((answer) => answer).length;
-  return <div className="rightResults">{rightScore}</div>;
+  return <div className="rightResults">⭐ {rightScore}</div>;
 }
 
 export default function Statistics() {
@@ -41,7 +41,10 @@ export default function Statistics() {
     <>
       {/* <h3>Statistics</h3> */}
       <div className="statistics">
-        <QuestionsBoxesList />
+        <div className="box-wrapper">
+          <QuestionsBoxesList />
+        </div>
+
         <RightResults />
       </div>
     </>

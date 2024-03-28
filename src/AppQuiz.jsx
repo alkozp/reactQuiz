@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import "./AppQuiz.css";
 import Quiz from "./components/Quiz.jsx";
-import quizData from "./assets/questions3.json";
+import quizData from "./assets/questions.json";
 import Result from "./components/Result.jsx";
 
 export default function AppQuiz() {

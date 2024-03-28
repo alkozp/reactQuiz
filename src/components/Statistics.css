@@ -30,5 +30,14 @@
 }
 
 .false-answer {
-  background-color: red;
+  background-color: orangered;
+}
+
+.box-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
 }
